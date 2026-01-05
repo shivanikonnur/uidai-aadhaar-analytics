@@ -15,14 +15,14 @@ Author-Shivani Konnur<br>
 <br>
 ## 📂 Project Structure
 AADHAR ANALYSIS/<br>
-├── DATA/     <br>   # Input datasets
-├── FIGURES/  <br>   # Generated visualizations
+├── DATA/# Input datasets     <br>   
+├── FIGURES/# Generated visualizations  <br>   
 ├── SRC/
 │   └── analysis.py<br>
 ├── README.md<br>
 └── .gitignore<br>
 <br>
-## ▶️ How to Run
+<b>▶️ How to Run</b>
 bash<br>
 cd AADHAR\ ANALYSIS<br>
 python SRC/analysis.py
